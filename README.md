@@ -1,1 +1,1 @@
-# Example-of-Internet-of-Things
+Queta repository contiene un progetto in java che simula il funzionamento dell'internet of things
