@@ -1,1 +1,1 @@
-Queta repository contiene un progetto in java che simula il funzionamento dell'internet of things
+Queta repository contiene un progetto in linguaggio java che simula il funzionamento dell'internet of things
